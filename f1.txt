@@ -1,1 +1,1 @@
-f1.txt: stash
+f1.txt: a
