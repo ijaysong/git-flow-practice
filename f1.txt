@@ -1,1 +1,3 @@
-repository
+function() {
+	return 'common';
+}
